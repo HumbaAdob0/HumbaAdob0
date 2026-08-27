@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/Header.png" alt="Hi, I'm Rem" width="100%">
+</p>
 
 <!--
 **HumbaAdob0/HumbaAdob0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
