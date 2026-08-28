@@ -2,7 +2,7 @@
   <img src="./assets/Header.png" alt="Hi, I'm Rem" width="100%">
 </p>
 
-<img align="left" src="./assets/alien_aboutme.png" alt="Alien illustration" width="330" hspace="8" vspace="28">
+<img align="left" src="./assets/alien_aboutme.png" alt="Alien illustration" width="330" hspace="8" vspace="40">
 
 <img src="./assets/About_me.png" alt="About Me" width="200">
 
