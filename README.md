@@ -2,7 +2,7 @@
   <img src="./assets/Header.png" alt="Hi, I'm Rem" width="100%">
 </p>
 
-<img align="left" src="./assets/alien_aboutme.png" alt="Alien working at a computer" width="300">
+<img align="left" src="./assets/alien_aboutme.png" alt="Alien illustration" width="330" hspace="8" vspace="24">
 
 <img src="./assets/About_me.png" alt="About Me" width="200">
 
@@ -12,11 +12,11 @@
   </dd>
 </dl>
 
-<p align="justify"><img src="./assets/star.png" alt="" width="18" valign="middle"> <strong>Hackathon Builder:</strong> Regional &amp; national competitor with winning builds including <strong>CivicLens</strong>, <strong>SurePay</strong>, and <strong>Cardea</strong>.</p>
+<p align="justify"><strong>Hackathon Builder:</strong> Regional &amp; national competitor with winning builds including <strong>CivicLens</strong>, <strong>SurePay</strong>, and <strong>Cardea</strong>.</p>
 
-<p align="justify"><img src="./assets/star.png" alt="" width="18" valign="middle"> <strong>Robotics &amp; AI:</strong> Exploring applied Machine Learning to replace traditional PID control in autonomous robotic systems.</p>
+<p align="justify"><strong>Robotics &amp; AI:</strong> Exploring applied Machine Learning to replace traditional PID control in autonomous robotic systems.</p>
 
-<p align="justify"><img src="./assets/star.png" alt="" width="18" valign="middle"> <strong>Tech Leadership:</strong> Former VP-Internal at <strong>ICpEP.SE</strong>, AI/ML Officer at <strong>GDG on Campus</strong>, and Finance Officer at <strong>AWS Cloud Club</strong>.</p>
+<p align="justify"><strong>Tech Leadership:</strong> Former VP-Internal at <strong>ICpEP.SE</strong>, AI/ML Officer at <strong>GDG on Campus</strong>, and Finance Officer at <strong>AWS Cloud Club</strong>.</p>
 
 <br clear="left">
 
