@@ -2,19 +2,19 @@
   <img src="./assets/Header.png" alt="Hi, I'm Rem" width="100%">
 </p>
 
-<table>
-  <tr>
-    <td width="35%" valign="top">
-      <img src="./assets/alien_aboutme.png" alt="Alien working at a computer" width="100%">
-    </td>
-    <td width="65%" valign="top">
-      <h2>About Me</h2>
-      <h3><strong>Computer Engineering undergraduate</strong> passionate about bridging hardware and full-stack software.</h3>
-      <h3><strong>Avid hackathon builder</strong> who thrives in fast-paced prototyping and competitive development.</h3>
-      <h3><strong>Robotics enthusiast</strong> with hands-on experience designing and building autonomous robotic systems.</h3>
-    </td>
-  </tr>
-</table>
+<img align="left" src="./assets/alien_aboutme.png" alt="Alien working at a computer" width="300">
+
+<img src="./assets/About_me.png" alt="About Me" width="200">
+
+<p>I’m a <strong>Computer Engineering undergraduate</strong> bridging the gap between embedded hardware and full-stack software. Driven by hands-on prototyping, I design autonomous robotics and build end-to-end applications through fast-paced hackathons.</p>
+
+<p><img src="./assets/star.png" alt="" width="18" valign="middle"> <strong>Hackathon Builder:</strong> Regional &amp; national competitor with winning builds including <strong>CivicLens</strong>, <strong>SurePay</strong>, and <strong>Cardea</strong>.</p>
+
+<p><img src="./assets/star.png" alt="" width="18" valign="middle"> <strong>Robotics &amp; AI:</strong> Exploring applied Machine Learning to replace traditional PID control in autonomous robotic systems.</p>
+
+<p><img src="./assets/star.png" alt="" width="18" valign="middle"> <strong>Tech Leadership:</strong> Former VP-Internal at <strong>ICpEP.SE</strong>, AI/ML Officer at <strong>GDG on Campus</strong>, and Finance Officer at <strong>AWS Cloud Club</strong>.</p>
+
+<br clear="left">
 
 <!--
 **HumbaAdob0/HumbaAdob0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
