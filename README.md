@@ -6,17 +6,19 @@
 
 <img src="./assets/About_me.png" alt="About Me" width="200">
 
-<dl>
-  <dd>
-    <p align="justify">I’m a <strong>Computer Engineering undergraduate</strong> bridging the gap between embedded hardware and full-stack software. Driven by hands-on prototyping, I design autonomous robotics and build end-to-end applications through fast-paced hackathons.</p>
-  </dd>
-</dl>
+<div style="font-family: 'Cutive Mono', monospace;">
+  <dl>
+    <dd>
+      <p align="justify">I’m a <strong>Computer Engineering undergraduate</strong> bridging the gap between embedded hardware and full-stack software. Driven by hands-on prototyping, I design autonomous robotics and build end-to-end applications through fast-paced hackathons.</p>
+    </dd>
+  </dl>
 
-<p align="justify"><strong>Hackathon Builder:</strong> Regional &amp; national competitor with winning builds including <strong>CivicLens</strong>, <strong>SurePay</strong>, and <strong>Cardea</strong>.</p>
+  <p align="justify"><strong>Hackathon Builder:</strong> Regional &amp; national competitor with winning builds including <strong>CivicLens</strong>, <strong>SurePay</strong>, and <strong>Cardea</strong>.</p>
 
-<p align="justify"><strong>Robotics &amp; AI:</strong> Exploring applied Machine Learning to replace traditional PID control in autonomous robotic systems.</p>
+  <p align="justify"><strong>Robotics &amp; AI:</strong> Exploring applied Machine Learning to replace traditional PID control in autonomous robotic systems.</p>
 
-<p align="justify"><strong>Tech Leadership:</strong> Former VP-Internal at <strong>ICpEP.SE</strong>, AI/ML Officer at <strong>GDG on Campus</strong>, and Finance Officer at <strong>AWS Cloud Club</strong>.</p>
+  <p align="justify"><strong>Tech Leadership:</strong> Former VP-Internal at <strong>ICpEP.SE</strong>, AI/ML Officer at <strong>GDG on Campus</strong>, and Finance Officer at <strong>AWS Cloud Club</strong>.</p>
+</div>
 
 <br clear="left">
 
